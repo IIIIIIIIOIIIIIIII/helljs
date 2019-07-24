@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.docs {
+	margin-top: 30px;	
+	font-weight: bold;
+	color: #464646;
+	margin-bottom: 413px;
+}
+
+.code {	
+	margin-top: 30px; 
+}
+
+pre {
+	background-color: #edecec;
+	padding: 15px;
+}
